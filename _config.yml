@@ -1,0 +1,73 @@
+theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/dark.css"
+locale: en-GB
+title: "Random Musings"
+description: "A geek's eclectic contemplations"
+baseurl: ""
+url: "https://randmusings.github.io"
+logo: "/assets/img/logo.jpg"
+date_format: "%B %-d, %Y / %l:%M %p"
+read_time: true
+words_per_minute: 200
+mathjax: true
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Signika"
+    weights: "400,700"
+google_analytics:
+disqus:
+  shortname:
+twitter:
+  username:
+
+# Liquid
+liquid:
+  error_mode: strict
+
+# Build settings
+markdown: kramdown
+feed:
+  path: atom.xml
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Search
+search_full_content: false
+
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jemoji
+
+# Site Author
+author:
+  name: Divay Prakash
+  picture: /assets/img/divayprakash.jpg
+  email: divayprakash0@gmail.com
+  twitter: divayprakash0
+  links:
+    - title: Twitter
+      url: https://twitter.com/divayprakash0
+      icon: fab fa-twitter
+    - title: GitHub
+      url: https://github.com/divayprakash
+      icon: fab fa-github
+
+# Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+
+# Footer Text
+copyright: Made with 💙 by [Divay Prakash](https://divayprakash.github.io/)<br>Hosted on [GitHub](https://pages.github.com/) and powered by [Jekyll](https://jekyllrb.com/) • Based on [So Simple Theme](https://mmistakes.github.io/so-simple-theme/)
