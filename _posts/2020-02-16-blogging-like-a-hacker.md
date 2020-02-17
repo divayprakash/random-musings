@@ -27,6 +27,9 @@ However, even after all this exploration - wading through the murky waters of PH
 
 This moment of astounding clarity led me to type out this post, which I think is my longest till now (and by some margin). Just to record how totally and completely ass-backwards one can get sometimes!
 
-Cheers to sleepless nights and endless explorations!
+<figure class="align-center">
+  <img src="{{ '/assets/img/here-we-go.jpg' | relative_url }}">
+  <figcaption>Cheers to sleepless nights and endless explorations!</figcaption>
+</figure>
 
 ***Update*** : Just to clarify the title - blogging like a "hacker" :man_technologist: - The title is just a reference to the fact the through the journey of setting up my blog, I realised that whatever else I may be, a coder I definitely am! I wasn't satisfied with the built solutions offered by Wordpress or Blogger, and just had to create something I could understand inside and out. And also, seamless updates with Ruby Gem-based themes rock :metal:!
