@@ -1,4 +1,4 @@
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
 locale: en-GB
 title: "Random Musings"
@@ -43,6 +43,7 @@ tag_archive_path: "/tags/#"
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
