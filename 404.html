@@ -5,9 +5,15 @@ permalink: /404.html
 hide: true
 ---
 
-<div class="center">
-  <p><img src="{{ site.baseurl }}/assets/img/cheers.gif"></p>
-  <p><i>You broke the internet!</i></p>
-  <p>Seriously though, it's just a <a href="https://en.wikipedia.org/wiki/HTTP_404">404</a> error; the page you are looking for wasn't found on the server. If you can spare 2 minutes, please drop me a <a href="mailto:{{ site.theme_settings.email_address }}" title="{{ site.theme_settings.str_email }}">mail</a> and tell me where you were trying to get to and what went wrong. Thanks!</p>
-  <p><a class="button" href="{{ site.baseurl }}/">Return home</a></p>
-</div>
+<p>
+	<img src="{{ "/assets/img/cheers.gif" | relative_url }}">
+</p>
+<p>
+	<i>You broke the internet!</i>
+</p>
+<p>
+	Seriously though, it's just a <a href="https://en.wikipedia.org/wiki/HTTP_404">404</a> error; the page you are looking for wasn't found on the server. If you can spare 2 minutes, please drop me a <a href="mailto:{{ site.author.email }}">mail</a> and tell me where you were trying to get to and what went wrong. Thanks!
+</p>
+<p>
+	<a class="button" href="/">Return home</a>
+</p>
