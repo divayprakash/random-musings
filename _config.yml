@@ -80,6 +80,3 @@ jekyll_compose:
       layout    : post
       categories: []
       tags:       []
-
-# Excerpt Separator
-excerpt_separator: <!--more-->

@@ -5,6 +5,7 @@ date: 		2020-02-08 08:09 +0530
 categories:	flight
 tags:		[flying, clouds]
 ---
+
 So, my first post. Here goes.......
 
 I am writing this while 30,000 feet in the air on board a Boeing 737-85R, travelling from Mumbai to Guwahati. I had to being that up because it'd give me an opportunity to talk about my love of flying. I never thought of pursuing it as a career option, and flying for fun was just out of the question for me. Yet there is something about flying that just captures my imagination like nothing else (well, with the exception of cars, but I'll probably talk about it some time later so we can leave that for now). Anyhow, suffice it to say that I really enjoy flying. I've only travelled on narrowbodies for now, but I hope to change that soon. Come on the Indian government, keep Air India alive for 4 more months so I can catch a B747. The Queen is the widebody that I want to experience the first (no puns intended!).
