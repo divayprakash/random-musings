@@ -72,3 +72,11 @@ footer_links:
 
 # Footer Text
 copyright: Made with 💙 by [Divay Prakash](https://divayprakash.github.io/)<br>Hosted on [GitHub](https://pages.github.com/) and powered by [Jekyll](https://jekyllrb.com/) • Based on [So Simple Theme](https://mmistakes.github.io/so-simple-theme/)
+
+# Default frontmatter
+jekyll_compose:
+  default_front_matter:
+    posts:
+      layout    : post
+      categories: []
+      tags:       []
