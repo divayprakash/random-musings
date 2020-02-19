@@ -9,6 +9,6 @@ Finally.....we are live! :metal:
 
 And I can safely say *'Hello World!'*
 
-![Hello World!]({{ site.baseurl }}/assets/img/hello-world.jpg)
+![Hello World!]({{ '/assets/img/hello-world.png' | relative_url }})
 
 :tada: :confetti_ball: :beers: :bowtie:
