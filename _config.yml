@@ -4,7 +4,7 @@ locale: en-GB
 title: "Random Musings"
 description: "A geek's eclectic contemplations"
 baseurl: ""
-url: "https://randmusings.github.io"
+url: "https://randommusings.netlify.com"
 logo: "/assets/img/logo.jpg"
 date_format: "%B %-d, %Y / %l:%M %p"
 read_time: true
