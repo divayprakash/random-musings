@@ -2,8 +2,8 @@
 layout: 	post
 title: 		Hello World!..... (maybe!)
 date:		2020-02-06 20:11 +0530
-categories:	init
-tags:		[hello world, sweat]
+categories:	[blogging]
+tags:		[hello world]
 ---
 
 So..... after 3 days of getting to grips with Jekyll, wandering senselessly through Liquid and Textile and wading through the murky waters of Ruby, I'm finally here!

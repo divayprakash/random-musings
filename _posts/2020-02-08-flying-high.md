@@ -2,8 +2,8 @@
 layout: 	post
 title: 		Flying High!
 date: 		2020-02-08 08:09 +0530
-categories:	flight
-tags:		[flying, clouds]
+categories:	[flying]
+tags:		[clouds]
 ---
 
 So, my first post. Here goes.......

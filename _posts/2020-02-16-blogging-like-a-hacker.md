@@ -2,8 +2,8 @@
 layout: 	post
 title: 		Blogging like a hacker
 date: 		2020-02-16 01:06 +0530
-categories:	introspect
-tags:		[blogging, exploration]
+categories:	[blogging, code]
+tags:		[exploration]
 last_modified_at : 2020-02-17 17:44 +0530
 ---
 

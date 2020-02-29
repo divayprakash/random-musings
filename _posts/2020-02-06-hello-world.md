@@ -2,8 +2,8 @@
 layout: 	post
 title: 		Hello World!
 date: 		2020-02-06 20:19 +0530
-categories:	init
-tags:		[hello world, made it!]
+categories:	[blogging]
+tags:		[hello world]
 ---
 
 Finally.....we are live! :metal:

@@ -2,8 +2,8 @@
 layout: 	post
 title: 		Flying (not so) high
 date: 		2020-02-08 11:21 +0530
-categories:	flight
-tags:		[flying]
+categories:	[flying]
+tags:		[little things]
 ---
 
 As I said before, I type this now on my connecting flight, now on a Bombardier Q400NG Bash 8 bound for Dibrugarh. This really is one aircraft I love flying on.

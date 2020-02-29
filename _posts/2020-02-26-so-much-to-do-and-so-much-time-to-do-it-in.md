@@ -2,7 +2,7 @@
 layout: 	post
 title: 		So much to do... and SO MUCH time to do it in
 date: 		2020-02-26 14:10 +0530
-categories: [blogging]
+categories: [life]
 tags: 		[boredom, time]
 ---
 

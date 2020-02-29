@@ -2,7 +2,7 @@
 layout: 	post
 title: 		Ray of Hope
 date: 		2020-02-19 11:32 +0530
-categories: [blogging]
+categories: [blogging, code]
 tags: 		[hope, solution]
 excerpt:	Finally, a possibility of light at the end of the tunnel. Considering the pit of despair I am in at the moment, a shred of hope is better than nothing at all.
 ---
