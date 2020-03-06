@@ -5,7 +5,7 @@ title: "Random Musings"
 description: "A geek's eclectic contemplations"
 baseurl: ""
 url: "https://randommusings.netlify.com"
-logo: "/assets/img/logo.jpg"
+logo: "/assets/img/logo.webp"
 date_format: "%B %-d, %Y / %l:%M %p"
 read_time: true
 words_per_minute: 200
