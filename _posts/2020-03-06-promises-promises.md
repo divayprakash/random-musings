@@ -3,7 +3,7 @@ layout: 	post
 title: 		Promises Promises
 date: 		2020-03-06 23:23 +0530
 categories: [life]
-tags: 		[time, hope]
+tags: 		[philosophy]
 ---
 
 I made a promise to myself to stop wasting time watching random shit on Youtube and instead use that time to read something or blog or just do anything else more productive. A progress report - I'm doing better... *sort of*.
