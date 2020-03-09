@@ -56,3 +56,14 @@ body {
 	border-top: none;
 	padding-bottom: 0;
 }
+
+@font-face {
+	font-family: "Gultan Bonte";
+	src: url("/assets/font/Gultan Bonte.ttf");
+}
+
+.site-title {
+	@include fluid-type($min-vw, $max-vw, 64px, 76px);
+	font-family: "Gultan Bonte", $serif-font-family;
+	font-weight: normal;
+}
