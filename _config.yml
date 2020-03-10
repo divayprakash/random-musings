@@ -29,6 +29,8 @@ liquid:
 markdown: kramdown
 feed:
   path: atom.xml
+sass:
+    style: compressed
 
 # Pagination
 paginate: 5
