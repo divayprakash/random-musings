@@ -3,11 +3,11 @@
   <div class="wrap">
     {% if site.logo %}
       <a href="{{ '/' | relative_url }}" class="site-logo" rel="home" title="{{ site.title }}">
-        <img src="{{ site.logo | relative_url }}" class="site-logo-img animated fadeInDown" alt="{{ site.title }}">
+        <img src="{{ site.logo | relative_url }}" class="site-logo-img" alt="{{ site.title }}">
       </a>
     {% endif %}
-      <h1 class="site-title animated fadeIn">{{ site.title }}</h1>
-      <p class="site-description animated fadeIn" itemprop="description">{{ site.description }}</p>
+      <h1 class="site-title">{{ site.title }}</h1>
+      <p class="site-description" itemprop="description">{{ site.description }}</p>
   </div>
   {% endif %}
 </header><!-- /.masthead -->
