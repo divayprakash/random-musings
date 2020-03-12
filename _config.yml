@@ -64,6 +64,9 @@ author:
     - title: Email
       url: mailto:divayprakash0@gmail.com
       icon: fas fa-envelope
+    - title: Website
+      url: https://divayprakash.github.io
+      icon: fas fa-globe
 
 # Default frontmatter
 jekyll_compose:
