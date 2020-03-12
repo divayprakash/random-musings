@@ -67,3 +67,15 @@ body {
 	font-family: "Gultan Bonte", $serif-font-family;
 	font-weight: normal;
 }
+
+/* Entry */
+.entry {
+	border: 1px solid #434343;
+	border-radius: 0.5em;
+	padding: 1em;
+}
+
+/* Section */
+.taxonomy-title {
+	text-decoration: underline dotted white;
+}
