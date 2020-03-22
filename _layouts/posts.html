@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+{{ content }}
+
+
+{% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsInYear %}
+  <strong>{{ year.name }}</strong>
+  {% assign postsInMonthYear = year.items | group_by_exp: 'post', 'post.date | date: "%B %Y"' %}
+  <ul class="taxonomy-index">
+  {% for monthYear in postsInMonthYear %}
+    <li>
+      <a href="#{{ monthYear.name }}">
+        {{ monthYear.name | date: "%B" }} <span class="taxonomy-count">{{ monthYear.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+  <br />
+{% endfor %}
+
+{% assign postsInMonthYear = site.posts | group_by_exp: 'post', 'post.date | date: "%B %Y"' %}
+{% for monthYear in postsInMonthYear %}
+  <section id="{{ monthYear.name }}" class="taxonomy-section">
+    <h2 class="taxonomy-title">{{ monthYear.name }}</h2>
+    <div class="entries-{{ page.entries_layout | default: 'list' }}">
+      {% for entry in monthYear.items %}
+        {% include entry.html %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{% endfor %}
